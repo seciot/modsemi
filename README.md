@@ -1,6 +1,6 @@
 ## MODSEMI
 
-[Modsemi](https://www.modsemi.com)'s encryption chip: [mod8id](https://www.modsemi.com/shows/7/3.html)
+[MODSEMI](https://www.modsemi.com)'s encryption chip: [MOD8ID](https://www.modsemi.com/shows/7/3.html)
 
 Introduction and integration
 ### 加密芯片
